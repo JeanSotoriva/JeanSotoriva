@@ -9,8 +9,8 @@
 - 📚 **Experiência**: Web Apps/Apis | Senai/FIESC
 - 📌 **Localização**: Erechim, RS, Brasil  
 - 🎓 **Formação|Degree - Egenharia da Computação | Computer engineering** — [UNOESC - https://www.unoesc.edu.br]  
-- 🎓 **Pós Graduação | Post Graduate - Desenvolvedor Full Stack** — [Faculdade Libano - https://institutolibano.com.br]  
-- 🎓 **Pós Graduação | Post Graduate - Desenvolvedor Web** — [Faculdade Libano - https://institutolibano.com.br]
+- 🎓 **Pós Graduação|Post Graduate - Desenvolvedor Full Stack** — [Faculdade Libano - https://institutolibano.com.br]  
+- 🎓 **Pós Graduação|Post Graduate - Desenvolvedor Web** — [Faculdade Libano - https://institutolibano.com.br]
 
 ---
 
