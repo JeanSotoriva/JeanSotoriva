@@ -1,6 +1,6 @@
-<h1 align="center">👋 Olá, Eu sou o Jean Sotoriva</h1>
+<h1 align="center">👋 Olá, Seja bem vindo(a) ao meu perfil!</h1>
 
-<p align="center">Sou desenvolvedor Full-Stack, entusiasta de Moodle, automações e web apps!</p>
+<p align="center">Sou desenvolvedor Full-Stack, entusiasta de Moodle, aplicações web e apps</p>
 
 ## 🛠️ Sobre Mim
 
