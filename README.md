@@ -11,9 +11,9 @@
 
 ## 💼 Certificações
 
-- 🎓 **Formação|Degree - Egenharia da Computação | Computer engineering** — [UNOESC - https://www.unoesc.edu.br]  
-- 🎓 **Pós Graduação|Post Graduate - Desenvolvedor Full Stack** — [Faculdade Libano - https://institutolibano.com.br]  
-- 🎓 **Pós Graduação|Post Graduate - Desenvolvedor Web** — [Faculdade Libano - https://institutolibano.com.br]
+- 🎓 **Formação - Engenharia de Computação** — [UNOESC - https://www.unoesc.edu.br]  
+- 🎓 **Pós Graduação - Desenvolvedor Full Stack** — [Faculdade Libano - https://institutolibano.com.br]  
+- 🎓 **Pós Graduação - Desenvolvedor Web** — [Faculdade Libano - https://institutolibano.com.br]
 
 ## 🚀 Minhas Habilidades
 
