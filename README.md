@@ -1,19 +1,6 @@
-# 👋 Olá, Eu sou o Jean Sotoriva
+<h1 align="center">👋 Olá, Eu sou o Jean Sotoriva</h1>
 
-[![LinkedIn](https://img.shields.io/badge/-Jean%20Sotoriva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-sotoriva-7b4442142/)](https://www.linkedin.com/in/jean-sotoriva-7b4442142/)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SeuUsuario&theme=dark&hide_border=true)](https://git.io/streak-stats)  
-
----
-
-## 🛠️ Linguagens e Ferramentas
-
-[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  
-[![Moodle](https://img.shields.io/badge/Moodle-000000?style=for-the-badge&logo=moodle&logoColor=white)](https://moodle.org/)  
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()  
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()  
-
----
+<p align="center">Sou desenvolvedor Full-Stack, entusiasta de Moodle, automações e web apps!</p>
 
 ## 🛠️ Sobre Mim
 
@@ -22,6 +9,38 @@
 - **Experiência**: Web Apps/Apis | Senai/FIESC
 - **Localização**: Erechim, RS, Brasil  
 - **Formação**: Engenharia da Computação
+
+---
+
+## 🚀 Minhas Habilidades
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="40" />
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JeanSotoriva&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSotoriva&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🧩 Contribuições Open Source
+
+- 🧡 **Contribuidor no [Moodle](https://moodle.org/)** — contribuindo com plugins, temas e melhorias da plataforma.
+- 👨‍🏫 Desenvolvimento de soluções educacionais com foco em acessibilidade e usabilidade.
 
 ---
 
@@ -62,16 +81,22 @@
 
 ---
 
-## 📫 Como Me Contatar
+## 🌐 Contato & Redes
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jean-sotoriva-7b4442142/)  
-- ✉️ jean.sotoriva@gmail.com
+<div align="center">
+  <a href="https://www.linkedin.com/in/jean-sotoriva-7b4442142/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jean.sotoriva@email.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-## ☕ Estatísticas de Colaboração
-
-[![Visitantes](https://visitor-badge.glitch.me/badge?page_id=JeanSotoriva.JmsBank)](https://github.com/JeanSotoriva)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SeuUsuario&style=flat-square&color=blue" alt="visitors"/>
+</p>
 
 ---
 
