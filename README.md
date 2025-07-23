@@ -85,7 +85,7 @@
 
 ## 📊 GitHub Analytics
 
-![Visitas ao perfil](https://komarev.com/ghpvc/?username=SeuUsuario&color=blueviolet)  
+![Visitas ao perfil](https://komarev.com/ghpvc/?username=JeanSotoriva&color=blueviolet)  
 ![Contribuições mensais](https://github-readme-activity-graph.cyclic.app/graph?username=JeanSotoriva&theme=react-dark&bg_color=000000)  
 
 ---
