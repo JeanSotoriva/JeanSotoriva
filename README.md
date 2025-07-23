@@ -4,11 +4,13 @@
 
 ## 🛠️ Sobre Mim
 
-- **Posição**: Full Stack Developer  
-- **Especialidades**: PHP, JavaScript, Moodle  
-- **Experiência**: Web Apps/Apis | Senai/FIESC
-- **Localização**: Erechim, RS, Brasil  
-- **Formação**: Engenharia da Computação
+- 🎯 **Posição**: Atuando como PHP/Moodle Full Stack Developer  
+- 💪**Especialidades**: PHP, Moodle, JavaScript.
+- 📚 **Experiência**: Web Apps/Apis | Senai/FIESC
+- 📌 **Localização**: Erechim, RS, Brasil  
+- 🎓 **Formação|Degree - Egenharia da Computação | Computer engineering** — [UNOESC - https://www.unoesc.edu.br]  
+- 🎓 **Pós Graduação | Post Graduate - Desenvolvedor Full Stack** — [Faculdade Libano - https://institutolibano.com.br]  
+- 🎓 **Pós Graduação | Post Graduate - Desenvolvedor Web** — [Faculdade Libano - https://institutolibano.com.br]
 
 ---
 
@@ -47,9 +49,6 @@
 
 ## 💼 Certificações
 
-- 🎓 **Bacharels degree - Egenharia da Computação** — [UNOESC - https://www.unoesc.edu.br]  
-- 🎓 **Post Graduate - Desenvolvedor Full Stack** — [Faculdade Libano - https://institutolibano.com.br]  
-- 🎓 **Post Graduate - Desenvolvedor Web** — [Faculdade Libano - https://institutolibano.com.br]
 
 ---
 
@@ -58,7 +57,6 @@
 | Backend         | Frontend         | Banco de Dados     | Others          |
 |----------------|------------------|--------------------|------------------|
 | PHP, Moodle API| JavaScript (ES6+)| MySQL, PostgreSQL  | Docker, Git, Postman|
-|                | JS ASModules     |                    |                  |
 
 ---
 
