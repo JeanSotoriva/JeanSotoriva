@@ -5,7 +5,7 @@
 ## 🛠️ Sobre Mim
 
 - 🎯 **Posição**: Atuando como Senior PHP/Moodle Full Stack Developer
-- 🚀 **Projetos:** Sócio proprietário da empresa de Software Gestor Habitações, desenvolvedora de: https://gestorhabitacao.com
+- 🚀 **Projetos:** Co-criador|Co-desenvolvedor do projeto Gestor Habitacional | https://gestorhabitacao.com
 - 💪**Especialidades**: PHP, Moodle, JavaScript.
 - 📚 **Experiência**: Web Apps/Apis | Senai/FIESC
 - 📌 **Localização**: Erechim, RS, Brasil  
