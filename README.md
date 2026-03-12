@@ -1,4 +1,4 @@
-<img width="2510" height="897" alt="image" src="https://github.com/user-attachments/assets/f5bf338f-d24b-44df-b43f-cc471429865a" /><h1 align="center">👋 Olá, Seja bem vindo(a) ao meu perfil!</h1>
+<h1 align="center">👋 Olá, Seja bem vindo(a) ao meu perfil!</h1>
 
 <p align="center">Sou desenvolvedor Full-Stack, entusiasta de Moodle, aplicações web e apps</p>
 
