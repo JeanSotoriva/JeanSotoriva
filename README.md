@@ -59,17 +59,10 @@
 
 ## 🚀 Projetos em Destaque
 
-### 1. Integração Moodle + Painel
-- **Descrição**: Plataforma educacional com dashboard administrativo para gestores e professores com milhares de alunos.
+### 1. SCTEC - Programa de cursos completos do estado de Santa Catarina.
+- **Descrição**: Plataforma educacional Moodle para o SCTEC, sendo um programa do Governo de Santa Catarina, em parceria com o SENAI/SC, que visa impulsionar a inovação e o desenvolvimento tecnológico no estado.
+- **Link**: https://sctec.scti.sc.gov.br/
 - **Tech**: PHP, Moodle, JS/Jquery, Postgres SQL, Api REST, Git/Gitlab, Docker, Templates Mustache, others.
-- **Status**: 🚧 Em desenvolvimento
-
-### 2. Test Framework QA
-- **Descrição**: Teste em Apps, Apis e outros.
-- **Tech**: JS, PHPm PHPUnit, Robot, Sonar, Docker, Git.
-- **Status**: ✅ Concluído
-
----
 
 ## 🌐 Contato & Redes
 
